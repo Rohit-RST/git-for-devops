@@ -3,4 +3,8 @@
 
 This repository is for understanding Git Concepts for DevOps
 
-Welcome to Devops 
+Welcome to Devops
+
+GOOD
+-command
+-Task 
