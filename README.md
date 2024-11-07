@@ -9,3 +9,4 @@ GOOD
 -command
 -Task 
 Project
+This Repository is is created to learn the git commant git pull git push 
